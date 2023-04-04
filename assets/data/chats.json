@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "user": {
+      "id": "u2",
+      "name": "Raviraj",
+      "image": "https://media.licdn.com/dms/image/D4D03AQGfB3TJB6A3iw/profile-displayphoto-shrink_400_400/0/1672066281429?e=1685577600&v=beta&t=Km4rffjny9PFkZ8aniTG_zlm4qnih4LNwFH3nV6mAUE",
+      "status": "Hey there!"
+    },
+    "lastMessage": {
+      "id": "m1",
+      "text": "Well done this sprint, guys!",
+      "createdAt": "2022-10-14T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "2",
+    "user": {
+      "id": "u3",
+      "name": "Amogh",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFZLYdLHiB2gw/profile-displayphoto-shrink_100_100/0/1672500945905?e=1685577600&v=beta&t=TOBLJPXd0G2VzrHDPn_Wk5tfYcghh2rGMX8axFTjE1I"
+    },
+    "lastMessage": {
+      "id": "m2",
+      "text": "How are you doing? Did you get any chance to look at what I've sent you?",
+      "createdAt": "2022-10-14T10:48:00.000Z"
+    }
+  },
+  {
+    "id": "3",
+    "user": {
+      "id": "u4",
+      "name": "Varun",
+      "image": "https://media.licdn.com/dms/image/C4D03AQEhslJo4LO-zA/profile-displayphoto-shrink_100_100/0/1659417021713?e=1685577600&v=beta&t=m5dVtidfWwiAJqHtii1O5GlCLcYmF5ojy7DAQfz2bkk"
+    },
+    "lastMessage": {
+      "id": "m3",
+      "text": "Hi, Vadim. I hope the plans for to night are still on.",
+      "createdAt": "2022-10-13T20:48:00.000Z"
+    }
+  },
+  {
+    "id": "4",
+    "user": {
+      "id": "u5",
+      "name": "Jeet",
+      "image": "https://media.licdn.com/dms/image/D4D03AQE7zvAJwpkTcQ/profile-displayphoto-shrink_100_100/0/1672163597905?e=1685577600&v=beta&t=ia6sjo-S-WeDfamGCB2fTsY0NYBNM6RCXSENkZQ6hOA"
+    },
+    "lastMessage": {
+      "id": "m4",
+      "text": "Could you please review my last merge?",
+      "createdAt": "2022-10-12T14:48:00.000Z"
+    }
+  },
+  {
+    "id": "5",
+    "user": {
+      "id": "u6",
+      "name": "Yogesh",
+      "image": "https://media.licdn.com/dms/image/C5103AQEs2XoyH3WrxA/profile-displayphoto-shrink_100_100/0/1581414386025?e=1685577600&v=beta&t=q425oyVyLp7YwjybRfPbDkIEixOgF-iJ39-8RyU7CUc"
+    },
+    "lastMessage": {
+      "id": "m5",
+      "text": "I would be happy meeting you",
+      "createdAt": "2022-10-11T14:48:00.000Z"
+    }
+  },
+  {
+    "id": "6",
+    "user": {
+      "id": "u7",
+      "name": "Atharva",
+      "image": "https://media.licdn.com/dms/image/C4D03AQE_hl5RbHIXWQ/profile-displayphoto-shrink_400_400/0/1663603177332?e=1685577600&v=beta&t=gRPR6sREMld6d-5Tkndjnii-LEtcA_Q-CqU0y5aNDhE"
+    },
+    "lastMessage": {
+      "id": "m6",
+      "text": "I think I have a solution for tha.",
+      "createdAt": "2022-10-10T14:48:00.000Z"
+    }
+  },
+  {
+    "id": "7",
+    "user": {
+      "id": "u8",
+      "name": "Abeer",
+      "image": "https://media.licdn.com/dms/image/D4D03AQHphD0LAONLEw/profile-displayphoto-shrink_400_400/0/1672901882598?e=1685577600&v=beta&t=q_yUL4uxITDgwSpsNJiTBBVmiwyFaDLEgpy_5rz8MyE"
+    },
+    "lastMessage": {
+      "id": "m7",
+      "text": "How are you doing?",
+      "createdAt": "2022-10-09T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "8",
+    "user": {
+      "id": "u9",
+      "name": "mom",
+      "image": "https://res.cloudinary.com/dzxwdwwqh/image/upload/v1672398443/cld-sample-4.jpg"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Dear, what did you eat, today?",
+      "createdAt": "2020-09-27T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "9",
+    "user": {
+      "id": "u9",
+      "name": "Zuveriya",
+      "image": "https://media.licdn.com/dms/image/C4D03AQFmmS9kxj4g_g/profile-displayphoto-shrink_400_400/0/1645950499080?e=1685577600&v=beta&t=HKcOY3ECchw6hsTV0e4vuld35tTfogxetCG9MyP-Z1Q"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "What about our podcast?",
+      "createdAt": "2020-09-27T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "10",
+    "user": {
+      "id": "u9",
+      "name": "Shweta",
+      "image": "https://media.licdn.com/dms/image/D5603AQH5elcYYDdivQ/profile-displayphoto-shrink_400_400/0/1671434127535?e=1685577600&v=beta&t=r3FIaiJlUHjafM950Ml6VSahmiU24goZF5m7xMhng-k"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Do I have to send you any more details?",
+      "createdAt": "2020-09-27T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "11",
+    "user": {
+      "id": "u9",
+      "name": "Darshana",
+      "image": "https://media.licdn.com/dms/image/D5603AQHTHa-r-Ph61g/profile-displayphoto-shrink_400_400/0/1671182248204?e=1685577600&v=beta&t=u8aoh7s4DJQIscblb97fqc5N0CziydrOUD_KhHS8eUw"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Here is a picture of Mark.",
+      "createdAt": "2020-09-27T15:40:00.000Z"
+    }
+  }
+]
